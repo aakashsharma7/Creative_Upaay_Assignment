@@ -34,7 +34,7 @@ Make sure you have the following installed:
 
 1. **Clone the repository:**
    ```bash
-   [git clone https://github.com/AdityaNidhonkar2004/Creative-Upaay-Assignment.git
+   [git clone https://github.com/aakashsharma7/Creative_Upaay_Assignment
    ```
 
 2. **Install dependencies:**
@@ -109,5 +109,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ---
 
-Feel free to explore, use, and contribute to the project. Happy coding!
+Feel free to explore, use, and contribute in the project. Happy coding!
 
